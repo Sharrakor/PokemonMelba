@@ -5399,3 +5399,676 @@ const u8 gEnamorusPokedexText[] = _(
     "Pokémon's love gives rise to the\n"
     "budding of fresh life across the land.");
 #endif
+#if P_GEN_9_POKEMON == TRUE
+const u8 gSprigatitoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFloragatoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gMeowscaradaPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFuecocoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gCrocalorPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gSkeledirgePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gQuaxlyPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gQuaxwellPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gQuaquavalPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gLechonkPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gOinkolognePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTarountulaPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gSpidopsPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gNymblePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gLokixPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gPawmiPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gPawmoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gPawmotPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTandemausPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gMausholdPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFidoughPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gDachsbunPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gSmolivPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gDollivPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gArbolivaPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gSquawkabillyPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gNacliPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gNaclstackPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGarganaclPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gCharcadetPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gArmarougePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gCeruledgePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTadbulbPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gBelliboltPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gWattrelPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gKilowattrelPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gMaschiffPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gMabosstiffPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gShroodlePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGrafaiaiPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gBramblinPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gBrambleghastPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gToedscoolPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gToedscruelPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gKlawfPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gCapsakidPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gScovillainPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gRellorPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gRabscaPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFlittlePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gEspathraPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTinkatinkPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTinkatuffPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTinkatonPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gWiglettPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gWugtrioPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gBombirdierPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFinizenPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gPalafinPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gVaroomPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gRevavroomPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gCyclizarPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gOrthwormPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGlimmetPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGlimmoraPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGreavardPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gHoundstonePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFlamigoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gCetoddlePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gCetitanPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gVeluzaPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gDondozoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTatsugiriPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gAnnihilapePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gClodsirePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFarigirafPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gDudunsparcePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gKingambitPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGreat_TuskPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gScream_TailPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gBrute_BonnetPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFlutter_ManePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gSlither_WingPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gSandy_ShocksPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_TreadsPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_BundlePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_HandsPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_JugulisPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_MothPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_ThornsPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFrigibaxPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gArctibaxPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gBaxcaliburPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGimmighoulPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gGholdengoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gWo_ChienPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gChien_PaoPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gTing_LuPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gChi_YuPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gRoaring_MoonPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_ValiantPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gKoraidonPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gMiraidonPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gWalking_WakePokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gIron_LeavesPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gDipplinPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gPoltchageistPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gSinistchaPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gOkidogiPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gMunkidoriPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gFezandipitiPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+
+const u8 gOgerponPokedexText[] = _(
+    "\n"
+    "\n"
+    "\n"
+    "\n");
+#endif

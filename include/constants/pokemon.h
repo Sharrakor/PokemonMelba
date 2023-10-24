@@ -284,6 +284,10 @@
 #define EVO_ITEM_DAY                      40     // specified item is used on Pokémon, is day
 #define EVO_ITEM_HOLD                     41     // Pokémon levels up, holds specified item
 #define EVO_LEVEL_FOG                     42     // Pokémon reaches the specified level during fog in the overworld
+#define EVO_GHOLDENGO					  43	 // Pokemon levels up with 999 of the specified item
+#define EVO_KINGAMBIT					  44	 // Pokemon defeats 3 Bisharp holding a Leader's Crest
+#define EVO_MOVE_20_USES				  45	 // Pokemon uses the specified move 20 times
+#define EVO_LEVEL_STEPS					  46	 // Pokemon levels up after the player has walked the specified number of steps with the Pokemon in the party
 
 #define EVOS_PER_MON 10
 
