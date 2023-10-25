@@ -160,7 +160,11 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
 #if P_GEN_4_POKEMON == TRUE
     [SPECIES_YANMA]                 = {{EVO_MOVE, MOVE_ANCIENT_POWER, SPECIES_YANMEGA}},
 #endif
-    [SPECIES_WOOPER]                = {{EVO_LEVEL, 20, SPECIES_QUAGSIRE}},
+    [SPECIES_WOOPER]                = {{EVO_LEVEL, 20, SPECIES_QUAGSIRE},
+                                    #if P_GEN_9_POKEMON == TRUE
+                                       {EVO_LEVEL, 20, SPECIES_CLODSIRE},
+                                    #endif
+                                      },
 #if P_GEN_4_POKEMON == TRUE
     [SPECIES_MURKROW]               = {{EVO_ITEM, ITEM_DUSK_STONE, SPECIES_HONCHKROW}},
     [SPECIES_MISDREAVUS]            = {{EVO_ITEM, ITEM_DUSK_STONE, SPECIES_MISMAGIUS}},
@@ -579,7 +583,6 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
     [SPECIES_GREAVARD]              = {{EVO_LEVEL_NIGHT, 30, SPECIES_HOUNDSTONE}},
     [SPECIES_CETODDLE]              = {{EVO_ITEM, ITEM_ICE_STONE, SPECIES_CETITAN}},
     [SPECIES_PRIMEAPE]              = {{EVO_MOVE_20_USES, MOVE_RAGE_FIST, SPECIES_ANNIHILAPE}},
-    [SPECIES_WOOPER]                = {{EVO_LEVEL, 20, SPECIES_CLODSIRE}},
     [SPECIES_GIRAFARIG]             = {{EVO_MOVE, MOVE_TWIN_BEAM, SPECIES_FARIGIRAF}},
     [SPECIES_DUNSPARCE]             = {{EVO_MOVE, MOVE_HYPER_DRILL, SPECIES_DUDUNSPARCE}},
     [SPECIES_BISHARP]               = {{EVO_KINGAMBIT, 0, SPECIES_KINGAMBIT}},
