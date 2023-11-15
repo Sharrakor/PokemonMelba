@@ -4410,6 +4410,56 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_A3_MOOROL_YUANG",
+      "name": "A3_Moorol_Yuang_Layout",
+      "width": 86,
+      "height": 86,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/A3_Moorol_Yuang/border.bin",
+      "blockdata_filepath": "data/layouts/A3_Moorol_Yuang/map.bin"
+    },
+    {
+      "id": "LAYOUT_A4_MOOROL_YUANG",
+      "name": "A4_Moorol_Yuang_Layout",
+      "width": 86,
+      "height": 86,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/A4_Moorol_Yuang/border.bin",
+      "blockdata_filepath": "data/layouts/A4_Moorol_Yuang/map.bin"
+    },
+    {
+      "id": "LAYOUT_A5_MOOROL_YUANG",
+      "name": "A5_Moorol_Yuang_Layout",
+      "width": 86,
+      "height": 86,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/A5_Moorol_Yuang/border.bin",
+      "blockdata_filepath": "data/layouts/A5_Moorol_Yuang/map.bin"
+    },
+    {
+      "id": "LAYOUT_A6_FERROGUM_DESERT",
+      "name": "A6_Ferrogum_Desert_Layout",
+      "width": 86,
+      "height": 86,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/A6_Ferrogum_Desert/border.bin",
+      "blockdata_filepath": "data/layouts/A6_Ferrogum_Desert/map.bin"
+    },
+    {
+      "id": "LAYOUT_A7_FERROGUM_DESERT",
+      "name": "A7_Ferrogum_Desert_Layout",
+      "width": 86,
+      "height": 86,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/A7_Ferrogum_Desert/border.bin",
+      "blockdata_filepath": "data/layouts/A7_Ferrogum_Desert/map.bin"
     }
   ]
 }

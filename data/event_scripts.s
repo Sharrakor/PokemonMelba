@@ -1059,3 +1059,13 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+
+	.include "data/maps/A3_Moorol_Yuang/scripts.inc"
+
+	.include "data/maps/A4_Moorol_Yuang/scripts.inc"
+
+	.include "data/maps/A5_Moorol_Yuang/scripts.inc"
+
+	.include "data/maps/A6_Ferrogum_Desert/scripts.inc"
+
+	.include "data/maps/A7_Ferrogum_Desert/scripts.inc"
