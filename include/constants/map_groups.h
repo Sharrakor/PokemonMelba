@@ -10,7 +10,7 @@
 // gMapGroup_SouthWest
 
 // gMapGroup_NorthWest
-#define MAP_A3_MOOROL_YUANG     (0 | (2 << 8))
+#define MAP_A3_MOOROL_YUANG    (0 | (2 << 8))
 #define MAP_A4_MOOROL_YUANG    (1 | (2 << 8))
 #define MAP_A5_MOOROL_YUANG    (2 | (2 << 8))
 #define MAP_A6_FERROGUM_DESERT (3 | (2 << 8))
